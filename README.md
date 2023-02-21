@@ -19,7 +19,7 @@ Give persmission for shell script file by following commands:
 * `bash fetch.sh`
 * `chmod +x fetch.sh`
 
-- `./fetch.sh https://www.github.com https://www.autify.com` (We can add multiple URLS)
+- `./fetch.sh https://www.github.com https://www.facebook.com` (We can add multiple URLS)
 
 Second Way:
 - `docker build -t web_scrapper .`
